@@ -19,7 +19,7 @@ To run this project, clone the repository and open the Jupyter Notebook in an en
 
 ### Installation
 If you don't have `matplotlib` and `numpy` installed, you can install them using pip:
-`pip install matplotlib numpy`
+- `pip install matplotlib numpy`
 
 
 ### Running the Notebook
